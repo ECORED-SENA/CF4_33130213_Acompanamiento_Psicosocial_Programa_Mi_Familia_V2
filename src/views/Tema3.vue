@@ -33,24 +33,24 @@
           .col-lg-5.my-3  
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/22.svg', alt='')   
 
-    p(data-aos="fade-down") Se explican aspectos a tener presentes en los encuentros.
+    p.mt-4(data-aos="fade-down") Se explican aspectos a tener presentes en los encuentros.
 
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.my-3  
+    .row.justify-content-center.align-items-center
+      .col-lg-4.d-none.d-lg-block  
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/22.png', alt='')      
-      .col-lg-8.my-3
+      .col-lg-8.my-lg-3
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg7")(data-aos="fade-down")
           div(titulo="Metodologías adecuadas") Para todos los encuentros, los profesionales que conforman la UAF, con apoyo de la UAT, deben planear metodologías adecuadas para abordar los temas con los diferentes grupos etarios (niños- niñas, adolescentes y adultos) u otras características de las familias y personas que participen. Los temas desarrollados son de interés de todas las familias y visibilizan aspectos particulares relacionados con las PcD y sus familias u otro tema diferencial. Así mismo estos temas complementan lo abordado en las visitas, de acuerdo con las particularidades e intereses de las familias.
           div(titulo="Participación de integrantes") Es importante que los encuentros promuevan la participación de varios integrantes de la familia, no solamente de padres, madres o cuidadores. Asimismo, Mi familia tiene a su disposición material metodológico de referencia en donde el PAF puede apoyarse para integrar a todos los integrantes de la familia independientemente de sus condiciones particulares, para avanzar en la participación efectiva de niños, niñas y adolescentes y otros integrantes con discapacidad, estos materiales deben incorporar ajustes razonables intencionados y claros, a nivel actitudinal, metodológico y para la accesibilidad. 
           div(titulo="Concreción de actividades") Se espera que en encuentros los integrantes de las familias participen en condiciones de igualdad y de manera efectiva. Como resultado de estos encuentros se busca que las familias participantes concreten actividades, alternativas y compromisos para eliminar barreras de acceso y participación, en especial en sus contextos comunitarios más inmediatos.  
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-8.my-3
+      .col-lg-8.my-lg-3
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg7")(data-aos="fade-down")
           div(titulo="Acciones grupales") En los encuentros se pueden desarrollar acciones grupales relacionadas con la gestión de redes, por ejemplo, invitar a referentes institucionales para la socialización de una oferta en particular, la población a la que va dirigido, los requisitos para el ingreso, los beneficios que se ofrecen, entre otros. Si el operador así lo considera podrá disponer de alguno de los encuentros para ser dedicado por completo a esta temática, teniendo en cuenta el mapeo territorial realizado durante la implementación de la modalidad.
           div(titulo="Reconocimiento de particularidades") Los encuentros (todos en general) deben reconocer las necesidades de las familias con personas con discapacidad, toda vez que, la dinámica de estas familias presenta una serie de particularidades que deben ser foco de atención al momento de realizar acciones de fortalecimiento e intervención. El reconocimiento de estas particularidades surge mediante el contacto directo con las familias en las visitas en domicilio, espacio en el cual debe hacerse una lectura de la familia, de las relaciones que se entretejen en su cotidianidad y las que surgen alrededor del cuidado de la persona con discapacidad u otras vulneraciones.        
           div(titulo="Estrategias lúdicas") Es posible en los encuentros usar estrategias enmarcadas en apuestas lúdicas, contemplar el juego, estudios de caso, soportarse en tecnologías de la información y la comunicación, dinamizarse mediante diálogos de saberes, participación de agentes y entidades del SNBF, todas pensadas en incluir a las familias con PcD u otros diferenciales.                
-      .col-lg-4.my-3  
+      .col-lg-4.my-3.d-none.d-lg-block  
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/23.png', alt='')      
 
     .row.justify-content-center.align-items-start          

@@ -95,7 +95,7 @@
       .col.my-3
         p(data-aos="fade-down").mb-0 Los métodos que parten de las experiencias previas de la familia, como metodología experiencial, contemplan la reflexión y análisis de las prácticas cotidianas, de las consecuencias de estas en la vida familiar o en el desarrollo de los niños, niñas o adolescentes y sus familias y finalmente una verbalización de los objetivos personales y familiares de cambio. De acuerdo con esta consideración, los resultados esperados de la visita en domicilio “#[mark.t1 no se consigue a través de charlas o discursos basados en el «deber ser», sino mediante procedimientos que generen reflexión y análisis personal”. Rodrigo, Máiquez, & Martín (2010, pág. 22)]. A continuación, se desarrolla los momentos que conforma la visita.  
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.my-3  
+      .col-lg-4.my-3.d-none.d-lg-block  
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.png', alt='')      
       .col-lg-8.my-3
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg7")(data-aos="fade-down")
