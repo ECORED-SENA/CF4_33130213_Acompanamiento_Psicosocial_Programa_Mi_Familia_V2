@@ -20,7 +20,7 @@
         .titulo-sexto.color-acento-contenido(data-aos="fade-left")
           h5 Figura 3.
           span Tipos de encuentros
-        img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/20.svg', alt='')
+        img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/20.svg', alt='Los tipos de encuentros pueden ser familiares y/o comunitarios.')
 
     p(data-aos="fade-down").mb-0 De acuerdo con los documentos técnicos de la modalidad (ICBF, 2023) estas formas de intervención colectiva para el fortalecimiento de capacidades familiares son espacios de encuentro y reconocimiento de las familias que buscan generar interacciones y conversaciones alrededor de la promoción del desarrollo familiar y la protección de los niños, niñas y adolescentes; promover la activación de recursos en las familias a través del conocimiento, experiencia y reflexiones sobre dinámicas con otras familias frente a situaciones desafiantes; y el surgimiento de redes colaborativas y de solidaridad o grupos de apoyo.     
 

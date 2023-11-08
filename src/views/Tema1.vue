@@ -18,7 +18,7 @@
     .titulo-sexto.color-acento-contenido(data-aos="fade-left")
       h5 Figura 1.
       span Zarpando a la aventura 
-    img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg', alt='')
+    img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg', alt='Proceso de la primera visita "Zarpando a la aventura" explicada en tres facetas.')
 
     p(data-aos="fade-down").mb-0 Ahora bien, las #[b.tr familias que pasan por un proceso de reunificación y reintegro familiar] y que son priorizadas por la Dirección de Protección en el marco de la articulación con la Dirección de Familias y Comunidades, serán atendidas del mismo modo que una familia priorizada territorialmente de acuerdo con el manual operativo de la modalidad y tendrá las mismas formas de atención, es decir, visitas en domicilio, encuentros familiares y comunitarios y se realizará un proceso de acompañamiento en gestión de redes para movilizar sus autonomía, tanto en lo rural como en lo urbano.    
 
@@ -39,7 +39,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 2.
           span Ejemplos de temáticas
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/7.svg', alt='')              
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/7.svg', alt='Se presentan cuatro temáticas como ejemplo para abordar con familias con PcD.')              
 </template>
 
 <script>
