@@ -78,15 +78,13 @@
           p.mb-0 El profesional de acompañamiento analizará la situación de la familia antes de realizar la VD, pues alguna situación emergente puede indicar la necesidad de priorizar un énfasis diferente al que se haya programado.  
 
     p(data-aos="fade-down").mt-4 A partir de las consideraciones planteadas desde el enfoque diferencial, debe tenerse en cuenta ajustes razonables para cualquier condición diferencial que lo requiera, para garantizar la participación de todos los integrantes de la familia en los procesos de acompañamiento desde la modalidad Mi Familia
-
-    p(data-aos="fade-down").mb-4 En el siguiente video amplía el proceso de preparación de las visitas. 
-    .row.justify-content-center.align-items-center.mb-4 
+    p(data-aos="fade-down") En el siguiente video amplía el proceso de preparación de las visitas.     
+    .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
-        figcaption Video.     
-
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/3DV9VfhFa_g?si=8BPiUr1lU_4fpyB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Proceso de preparación
     p(data-aos="fade-down") Es importante en el acompañamiento entender a la familia como un sujeto que cuenta con un bagaje de experiencias y de concepciones y que podemos ayudar a potenciar o a reconstruir, por ello las visitas no se conciben como una transferencia de información o como el escenario de implementación de una técnica de intervención, es un espacio de co-construcción entre el profesional y la familia.        
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-down") 
