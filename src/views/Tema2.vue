@@ -30,7 +30,7 @@
       .col-lg-8.my-3
         .bg3(data-aos="flip-down").p-4.mb-4
           p(data-aos="fade-down").mb-0 Se recomienda consultar la cartilla de reunificación familiar, construida en articulación con la Direcciones de Protección y Familias y Comunidades, así como la Guía de articulación entre las dos direcciones, para las familias que pasan por un proceso de reunificación y reintegro familiar. 
-        p(data-aos="fade-down") Cada visita tiene una duración de 45 a 60 minutos y se programará de manera concertada con la familia, procurando que en esta participe el mayor número de integrantes. La duración de la visita en domicilio no debe ser inferior a 45 minutos, garantizando un tiempo óptimo para la generación de conversaciones con la familia. Para el caso de la familia con PcD se debe promover que está persona, no solo esté presente, sino que participe en la visita.                               
+        p(data-aos="fade-down") Cada visita tiene una duración de 45 a 60 minutos y se programará de manera concertada con la familia, procurando que en esta participe el mayor número de integrantes. La duración de la visita en domicilio no debe ser inferior a 45 minutos, garantizando un tiempo óptimo para la generación de conversaciones con la familia. Para el caso de la familia con PcD se debe promover que esta persona, no solo esté presente, sino que participe en la visita.                               
       .col-lg-4.my-3  
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/9.png', alt='')       
 
@@ -55,7 +55,7 @@
       .col-lg-4.my-3
         .bg6.p-4.h-100(data-aos="fade-right")
           img.mb-4.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/11.svg', alt='')      
-          p.mb-0 Se espera que el PAF, concerté con la familia el día y la hora de realización de la visita, teniendo en cuenta sus rutinas y dinámicas, garantizando la participación del mayor número de sus integrantes.
+          p.mb-0 Se espera que el PAF, concerte con la familia el día y la hora de realización de la visita, teniendo en cuenta sus rutinas y dinámicas, garantizando la participación del mayor número de sus integrantes.
       .col-lg-4.my-3
         .bg6.p-4.h-100(data-aos="fade-down")
           img.mb-4.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/12.svg', alt='')      
@@ -85,7 +85,7 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/3DV9VfhFa_g?si=8BPiUr1lU_4fpyB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Proceso de preparación
-    p(data-aos="fade-down") Es importante en el acompañamiento entender a la familia como un sujeto que cuenta con un bagaje de experiencias y de concepciones y que podemos ayudar a potenciar o a reconstruir, por ello las visitas no se conciben como una transferencia de información o como el escenario de implementación de una técnica de intervención, es un espacio de co-construcción entre el profesional y la familia.        
+    p(data-aos="fade-down") Es importante en el acompañamiento entender a la familia como un sujeto que cuenta con un bagaje de experiencias y de concepciones y que podemos ayudar a potenciar o a reconstruir, por ello las visitas no se conciben como una transferencia de información o como el escenario de implementación de una técnica de intervención, es un espacio de coconstrucción entre el profesional y la familia.        
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-down") 
       .col-lg-auto.my-3  
@@ -102,18 +102,15 @@
 
             p Es importante indagar de manera muy general si la familia y los integrantes que participan han tenido una experiencia previa con la temática o el proceso a desarrollar y definir de manera conjunta el objetivo de la visita. En este punto es importante que el PAF tenga una actitud de apertura y evite hacer juicios de valor sobre lo que manifiesta la familia.
           div(titulo="Reflexión y análisis")
-            p Posteriormente, el profesional de acompañamiento psicosocial puede promover con las familias la reflexión e identificación de formas y perspectivas distintas de interpretar y retomar en la práctica los asuntos tratados a partir de cada tema, lo cual se puede lograr con preguntas relacionadas sobre la propia vivencia de los padres, madres o cuidadores durante su infancia o adolescencia y los significados construidos en el transcurso de la vida, motivando un ejercicio de ponerse en el lugar del otros y reflexionar sobre cómo se pueden estar sintiendo. En ese sentido, se sugiere el uso de herramientas pedagógicas que incentiven la reflexión, por ejemplo, cuentos, historias o canciones que encierren situaciones que puedan usarse como metáfora y que propicien la conversación desde diferentes formas de comprender y abordar una misma situación.
+            p Posteriormente, el profesional de acompañamiento psicosocial puede promover con las familias la reflexión e identificación de formas y perspectivas distintas de interpretar y retomar en la práctica los asuntos tratados a partir de cada tema, lo cual se puede lograr con preguntas relacionadas sobre la propia vivencia de los padres, madres o cuidadores durante su infancia o adolescencia y los significados construidos en el transcurso de la vida, motivando un ejercicio de ponerse en el lugar de otros y reflexionar sobre cómo se pueden estar sintiendo. En ese sentido, se sugiere el uso de herramientas pedagógicas que incentiven la reflexión, por ejemplo, cuentos, historias o canciones que encierren situaciones que puedan usarse como metáfora y que propicien la conversación desde diferentes formas de comprender y abordar una misma situación.
 
             p En esta parte motivamos una reflexión sobre las distintas perspectivas y diferentes significados o creencias que pueden existir frente a una misma situación. Para esto, los materiales pedagógicos y metodológicas sugeridos por la modalidad, proponen actividades, juegos y otras estrategias didácticas que tienen como fin promover la reflexión sobre las dinámicas familiares para identificar escenarios de aprendizaje y transformación (ajustables a cada situación familiar).          
           div(titulo="Ejercicio autónomo")
             p Es necesario en la visita en domicilio generar un ambiente de confianza que permita a los integrantes de la familia expresar lo que piensan, como actúan, identifiquen las consecuencias positivas y negativas, las ventajas y desventajas que se derivan de sus formas de relacionamiento y dinámicas familiares y formas de afrontamiento de situaciones de su interés.
 
-            p Así mismo, es pertinente que el profesional de acompañamiento familiar motive y promueva el ejercicio autónomo de las familias de manera permanente, este ejercicio es una posibilidad de acción dentro de la intervención, dado que de lo que se trata es que las familias fortalezcan su capacidad de agencia entre otras capacidades y el ejercicio autónomo y auto reflexivo son acciones que posibilitarán este empoderamiento.          
-          div(titulo="Siguiente visita") En la siguiente visita, el momento de desarrollo se sugiere iniciar con una reflexión sobre el ejercicio autónomo propuesto en la sesión anterior, el cual pudo quedar registrado por la familia en el Plan Familiar, motivando a los integrantes de la familia a expresar como se sintieron con el ejercicio y lo que les permitió descubrir o redescubrir como familia.
-          div(titulo="Cierre y reflexión final")
-            p En la siguiente visita, el momento de desarrollo se sugiere iniciar con una reflexión sobre el ejercicio autónomo propuesto en la sesión anterior, el cual pudo quedar registrado por la familia en el Plan Familiar, motivando a los integrantes de la familia a expresar como se sintieron con el ejercicio y lo que les permitió descubrir o redescubrir como familia.
-
-            p La reflexión final debe partir de lo expresado por los participantes durante la sesión, retomando las inquietudes, sensaciones y emociones que suscitaron malestar o bienestar, las preocupaciones, consensos, disensos, entre otros.          
+            p Así mismo, es pertinente que el profesional de acompañamiento familiar motive y promueva el ejercicio autónomo de las familias de manera permanente, este ejercicio es una posibilidad de acción dentro de la intervención, dado que de lo que se trata es que las familias fortalezcan su capacidad de agencia entre otras capacidades y el ejercicio autónomo y autoreflexivo son acciones que posibilitarán este empoderamiento.          
+          div(titulo="Siguiente visita") En la siguiente visita, el momento de desarrollo se sugiere iniciar con una reflexión sobre el ejercicio autónomo propuesto en la sesión anterior, el cual pudo quedar registrado por la familia en el Plan Familiar, motivando a los integrantes de la familia a expresar cómo se sintieron con el ejercicio y lo que les permitió descubrir o redescubrir como familia.
+          div(titulo="Cierre y reflexión final") La reflexión final debe partir de lo expresado por los participantes durante la sesión, retomando las inquietudes, sensaciones y emociones que suscitaron malestar o bienestar, las preocupaciones, consensos, disensos, entre otros.          
 
     p(data-aos="fade-down") El reto del profesional de acompañamiento es mantener durante la VD y durante todo el proceso un ambiente participativo, respetuoso de la diversidad, con equilibrio de poderes, que facilite reflexión e introspección y aporte al fortalecimiento de capacidades individuales, a la generación de dinámicas de trabajo colaborativo y a la incorporación de comprensiones y prácticas familiares inclusivas y garantista de derechos para sus integrantes. Se recomienda apoyar el desarrollo de las visitas con el uso de preguntas generativas y reflexivas, las cuales posibilitan la construcción de narrativas de cambio y de movilización en las familias. 
 
@@ -129,7 +126,7 @@
         .bloque-texto-d.color-secundario.p-3.mb-4(data-aos="fade-down")
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            p “a través de llamadas o video llamadas, complementadas con el envío de información y recursos a las familias a través de mensajes de texto, WhatsApp, correo electrónico, entre otros” 
+            p “a través de llamadas o videollamadas, complementadas con el envío de información y recursos a las familias a través de mensajes de texto, WhatsApp, correo electrónico, entre otros” 
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h5.mb-0 (ICBF, 2022).
