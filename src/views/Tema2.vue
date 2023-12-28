@@ -83,7 +83,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/3DV9VfhFa_g?si=8BPiUr1lU_4fpyB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/edUSsn7vQZs?si=RRk_UkPZrtc9USwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Proceso de preparación
     p(data-aos="fade-down") Es importante en el acompañamiento entender a la familia como un sujeto que cuenta con un bagaje de experiencias y de concepciones y que podemos ayudar a potenciar o a reconstruir, por ello las visitas no se conciben como una transferencia de información o como el escenario de implementación de una técnica de intervención, es un espacio de coconstrucción entre el profesional y la familia.        
 
